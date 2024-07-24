@@ -20,4 +20,15 @@ h1 {
     background-color: #ffffff;
     border-radius: 6px;
     padding: 10px;
+    text-align: center;
+}
+
+#color-code {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 10px;
 }
